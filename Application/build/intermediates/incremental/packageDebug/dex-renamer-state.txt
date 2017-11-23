@@ -1,0 +1,7 @@
+#Wed Sep 06 00:36:44 IST 2017
+base.0=/Users/umang/AndroidStudioProjects/Quiz/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3b34c477bf78e01298e57080f9fcb44379e8a57a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/umang/AndroidStudioProjects/Quiz/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5f0c4f171eeb91bdac49ac6025bc27c58c77f36f/classes.dex
+base.1=/Users/umang/AndroidStudioProjects/Quiz/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5f0c4f171eeb91bdac49ac6025bc27c58c77f36f
+file.0=/Users/umang/AndroidStudioProjects/Quiz/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3b34c477bf78e01298e57080f9fcb44379e8a57a/classes.dex

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/umang/AndroidStudioProjects/Quiz/Application/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/umang/.android/build-cache/314dc760f3cff431355abe1f812ebb0b0345d109/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/umang/AndroidStudioProjects/Quiz/Application/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/umang/.android/build-cache/314dc760f3cff431355abe1f812ebb0b0345d109/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/umang/AndroidStudioProjects/Quiz/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/umang/.android/build-cache/314dc760f3cff431355abe1f812ebb0b0345d109/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/umang/AndroidStudioProjects/Quiz/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/umang/.android/build-cache/314dc760f3cff431355abe1f812ebb0b0345d109/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

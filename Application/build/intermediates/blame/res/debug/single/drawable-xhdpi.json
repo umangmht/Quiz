@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/umang/AndroidStudioProjects/Quiz/Application/build/intermediates/res/merged/debug/drawable-xhdpi/ic_choice_a.png",
+        "source": "/Users/umang/AndroidStudioProjects/Quiz/Application/src/main/res/drawable-xhdpi/ic_choice_a.png"
+    },
+    {
+        "merged": "/Users/umang/AndroidStudioProjects/Quiz/Application/build/intermediates/res/merged/debug/drawable-xhdpi/ic_choice_d.png",
+        "source": "/Users/umang/AndroidStudioProjects/Quiz/Application/src/main/res/drawable-xhdpi/ic_choice_d.png"
+    },
+    {
+        "merged": "/Users/umang/AndroidStudioProjects/Quiz/Application/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/Users/umang/AndroidStudioProjects/Quiz/Application/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/umang/AndroidStudioProjects/Quiz/Application/build/intermediates/res/merged/debug/drawable-xhdpi/ic_choice_b.png",
+        "source": "/Users/umang/AndroidStudioProjects/Quiz/Application/src/main/res/drawable-xhdpi/ic_choice_b.png"
+    },
+    {
+        "merged": "/Users/umang/AndroidStudioProjects/Quiz/Application/build/intermediates/res/merged/debug/drawable-xhdpi/ic_choice_c.png",
+        "source": "/Users/umang/AndroidStudioProjects/Quiz/Application/src/main/res/drawable-xhdpi/ic_choice_c.png"
+    }
+]
